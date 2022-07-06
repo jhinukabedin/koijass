@@ -1,0 +1,27 @@
+.owl-carousel.angle-only .owl-controls{position: absolute;left: 0; top: 50%;margin-top: -14px;width: 100%;text-align:left;}
+.owl-carousel.angle-only  .owl-controls .owl-buttons{}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div{font-size:20px;color: #666; display:inline-block;}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div.owl-prev{margin-left:0px; position:absolute}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div.owl-next{float: right;}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div i {}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div i.fa-angle-left{}
+.owl-carousel.angle-only  .owl-controls .owl-buttons div i.fa-angle-right{}
+
+.owl-carousel.angle-only .owl-controls{position: absolute;left: 0; top: 50%;margin-top: -14px;width: 100%;text-align:left;}
+.owl-carousel.angle-button  .owl-controls .owl-buttons{}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div{font-size:20px;color: #666; display:inline-block;background:red; padding:5px;}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div.owl-prev{margin-left:-5px; position:absolute}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div.owl-next{float: right;}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div i {}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div i.fa-angle-left{}
+.owl-carousel.angle-button  .owl-controls .owl-buttons div i.fa-angle-right{}
+
+.owl-carousel.angle-only-paged .owl-pagination{text-align:center;}
+.owl-carousel.angle-only-paged .owl-pagination div{width: 13px;
+height: 13px;
+background: #81ab02;
+width:15px;
+display: inline-block;
+border-radius:50%;
+margin: 0 5px;}
+.owl-carousel.angle-only-paged .owl-pagination div.active{background:#d4d4d4;}
